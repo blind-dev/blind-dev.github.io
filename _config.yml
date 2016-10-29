@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: blind.dev
-email: info@blind.dev
+title: Blind Dev
+email: info@blinddev.org
 description: > # this means to ignore newlines until "baseurl:"
   A community of blind and accessibility-conscious software developers interested in improving the state of software development tools.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blind.dev" # the base hostname & protocol for your site
-twitter_username: blind-dev
+url: "http://blinddev.org" # the base hostname & protocol for your site
+#twitter_username: blind-dev
 github_username:  blind-dev
 
 # Build settings

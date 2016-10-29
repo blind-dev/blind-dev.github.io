@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# About blind.dev
+# About Blind Dev
 
-Welcome to blind.dev, a community to help make software development and the
+Welcome to Blind Dev, a community to help make software development and the
 tools that comprise it more accessible.
 
 ## HAve a project?
