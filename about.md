@@ -9,7 +9,7 @@ permalink: /about/
 Welcome to Blind Dev, a community to help make software development and the
 tools that comprise it more accessible.
 
-## HAve a project?
+## Have a project?
 
 If you have a project like this, we want to hear about it and help spread the
 word.
